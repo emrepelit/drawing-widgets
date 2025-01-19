@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R5vgjirlrGo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emrep\\RiderProjects\\SpreadEx-WidgetsDrawing\\WidgetsDrawing.Console\\WidgetsDrawing.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emrep\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.1\\microsoft.extensions.dependencyinjection.9.0.1.nupkg.sha512",
+    "C:\\Users\\emrep\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
